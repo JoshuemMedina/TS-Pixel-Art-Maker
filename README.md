@@ -11,7 +11,7 @@ Now it’s easier than ever to make TS Rooms from images! With just the click of
 * **Images and Data are not stored! The app is fully Offline**
 
 ## How to use?
-1. Download the latest Release
+1. Download the latest Release [here](https://github.com/JoshuemMedina/TS-Pixel-Art-Maker/releases/)
 2. Unzip the folder
 3. Run TS-Pixel-Art-Maker.exe
 
