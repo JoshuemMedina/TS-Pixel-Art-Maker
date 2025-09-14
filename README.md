@@ -23,26 +23,26 @@ Now it’s easier than ever to make TS Rooms from images! With just the click of
 
 ## Credits
 ### Code
-All code written by me, JoshuemMedina
-Framework: openFrameworks -- https://openframeworks.cc/ -- License: © openFrameworks contributors
+* All code written by me, JoshuemMedina
+* Framework: openFrameworks -- https://openframeworks.cc/ -- License: © openFrameworks contributors
 ### Art
-All art done by me, JoshuemMedina
-Tool (in-art fonts): Pixilart -- https://www.pixilart.com/
-Text Font: Jersey 10 by Sarah Cadigan-Fried -- https://fonts.google.com/specimen/Jersey+10 -- License: SIL Open Font License, Version 1.1
+* All art done by me, JoshuemMedina
+* Tool (in-art fonts): Pixilart -- https://www.pixilart.com/
+* Text Font: Jersey 10 by Sarah Cadigan-Fried -- https://fonts.google.com/specimen/Jersey+10 -- License: SIL Open Font License, Version 1.1
 ### SFX
-8 bit march.wav by njjn -- https://freesound.org/s/678597/ -- License: Creative Commons 0
-Dangerous fields by Victor_Natas -- https://freesound.org/s/614198/ -- License: Attribution 4.0
-Let Me See Ya Bounce (8-Bit music) by DominikBraun -- https://freesound.org/s/483502/ -- License: Attribution 4.0
-Retro video game sfx - Bounce by OwlStorm -- https://freesound.org/s/404769/ -- License: Creative Commons 0
-Shining 8 bit by Mrthenoronha -- https://freesound.org/s/399904/ -- License: Attribution NonCommercial 4.0
-Soft UI Button Click by Jummit -- https://freesound.org/s/528561/ -- License: Creative Commons 0
+* 8 bit march.wav by njjn -- https://freesound.org/s/678597/ -- License: Creative Commons 0
+* Dangerous fields by Victor_Natas -- https://freesound.org/s/614198/ -- License: Attribution 4.0
+* Let Me See Ya Bounce (8-Bit music) by DominikBraun -- https://freesound.org/s/483502/ -- License: Attribution 4.0
+* Retro video game sfx - Bounce by OwlStorm -- https://freesound.org/s/404769/ -- License: Creative Commons 0
+* Shining 8 bit by Mrthenoronha -- https://freesound.org/s/399904/ -- License: Attribution NonCommercial 4.0
+* Soft UI Button Click by Jummit -- https://freesound.org/s/528561/ -- License: Creative Commons 0
 
 **This app is inspired by PewDiePie’s Tuber Simulator -- https://outerminds.com/games/tuber-simulator/ -- © Outerminds**
 
 ## Special Thanks
-Retsy
-Harenbaren
-VampyRiftQueen
-In-game "Potatoes" network
-And all who helped me along the way :)
+* Retsy
+* Harenbaren
+* VampyRiftQueen
+* In-game "Potatoes" network
+* And all who helped me along the way :)
 
